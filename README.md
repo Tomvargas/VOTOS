@@ -6,17 +6,3 @@ Esta aplicación implementa un interfaz que permite iniciar sesión para dos tip
 * **Usuario general**
 	>Puede generar su voto, este usuario podrá sufragar si su numero de cédula consta en la base de datos.
 
-## UML
-
-Estructura del funciones:
-
-```mermaid
-graph TB
-A[VOTOS] --> B(administrador)
-A --> C(Usuario general)
-B --> D(agregar usuarios)
-B --> E(agregar Votante)
-B --> F(agregar Lista)
-B --> G(Ver resultados)
-C --> H(Sufragar)
-```
