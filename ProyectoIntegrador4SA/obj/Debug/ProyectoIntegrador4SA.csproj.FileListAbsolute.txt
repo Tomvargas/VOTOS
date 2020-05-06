@@ -1,0 +1,72 @@
+c:\users\tommy\documents\visual studio 2015\Projects\ProyectoIntegrador4SA\ProyectoIntegrador4SA\bin\Debug\ProyectoIntegrador4SA.exe
+c:\users\tommy\documents\visual studio 2015\Projects\ProyectoIntegrador4SA\ProyectoIntegrador4SA\bin\Debug\ProyectoIntegrador4SA.pdb
+c:\users\tommy\documents\visual studio 2015\Projects\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.csprojResolveAssemblyReference.cache
+c:\users\tommy\documents\visual studio 2015\Projects\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Inicio.resources
+c:\users\tommy\documents\visual studio 2015\Projects\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Properties.Resources.resources
+c:\users\tommy\documents\visual studio 2015\Projects\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.csproj.GenerateResource.Cache
+c:\users\tommy\documents\visual studio 2015\Projects\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.exe
+c:\users\tommy\documents\visual studio 2015\Projects\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.pdb
+c:\users\tommy\documents\visual studio 2015\Projects\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Administrador.resources
+c:\users\tommy\documents\visual studio 2015\Projects\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Identificar_Sufragante.resources
+c:\users\tommy\documents\visual studio 2015\Projects\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Usuario.resources
+F:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.exe
+F:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.pdb
+F:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\bin\Debug\ProyectoIntegrador4SA.exe
+F:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\bin\Debug\ProyectoIntegrador4SA.pdb
+F:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.csprojResolveAssemblyReference.cache
+F:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Administrador.resources
+F:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Identificar_Sufragante.resources
+F:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Inicio.resources
+F:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Properties.Resources.resources
+F:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Usuario.resources
+F:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.csproj.GenerateResource.Cache
+G:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.exe
+G:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.pdb
+G:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\bin\Debug\ProyectoIntegrador4SA.exe
+G:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\bin\Debug\ProyectoIntegrador4SA.pdb
+G:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.csprojResolveAssemblyReference.cache
+G:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Administrador.resources
+G:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Identificar_Sufragante.resources
+G:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Inicio.resources
+G:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Properties.Resources.resources
+G:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Usuario.resources
+G:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.csproj.GenerateResource.Cache
+G:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Sufragio.resources
+E:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.exe
+E:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.pdb
+E:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\bin\Debug\ProyectoIntegrador4SA.exe
+E:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\bin\Debug\ProyectoIntegrador4SA.pdb
+E:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Administrador.resources
+E:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Agregar_Usu.resources
+E:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Identificar_Sufragante.resources
+E:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Inicio.resources
+E:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Properties.Resources.resources
+E:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Sufragio.resources
+E:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Usuario.resources
+E:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.csproj.GenerateResource.Cache
+F:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Consultar.resources
+F:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Agregar_Usu.resources
+F:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Sufragio.resources
+E:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\bin\Debug\MyLibrary.dll
+E:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\bin\Debug\MyLibrary.pdb
+E:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Consultar_Resultados.resources
+E:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Agregar_Candidatos.resources
+E:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.csprojAssemblyReference.cache
+E:\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.exe
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.pdb
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Administrador.resources
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Agregar_Candidatos.resources
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Consultar_Resultados.resources
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Agregar_Usu.resources
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Identificar_Sufragante.resources
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Inicio.resources
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Sufragio.resources
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Usuario.resources
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\bin\Debug\ProyectoIntegrador4SA.exe
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\bin\Debug\ProyectoIntegrador4SA.pdb
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\bin\Debug\MyLibrary.dll
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\bin\Debug\MyLibrary.pdb

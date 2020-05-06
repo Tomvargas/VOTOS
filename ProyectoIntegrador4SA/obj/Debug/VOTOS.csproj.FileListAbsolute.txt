@@ -1,0 +1,17 @@
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Administrador.resources
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Agregar_Candidatos.resources
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Consultar_Resultados.resources
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Agregar_Usu.resources
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Identificar_Sufragante.resources
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Inicio.resources
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Sufragio.resources
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\ProyectoIntegrador4SA.Usuario.resources
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\VOTOS.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\bin\Debug\MyLibrary.dll
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\bin\Debug\MyLibrary.pdb
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\bin\Debug\VOTOS.exe
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\bin\Debug\VOTOS.pdb
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\VOTOS.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\VOTOS.exe
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\obj\Debug\VOTOS.pdb
+C:\Users\USUARIO\Desktop\TOMAS\C#\ProyectoIntegrador4SA\ProyectoIntegrador4SA\bin\Debug\VOTOS.exe.config
